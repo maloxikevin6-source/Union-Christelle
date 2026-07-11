@@ -1,3 +1,5 @@
+import "./globals.css";
+
 export const metadata = {
   title: "Union-Christelle",
   description: "Agence matrimoniale Union-Christelle",
